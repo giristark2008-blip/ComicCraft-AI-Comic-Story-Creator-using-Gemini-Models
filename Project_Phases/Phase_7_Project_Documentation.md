@@ -3,7 +3,7 @@
 ## Local Setup Instructions
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/ponnurangamm21-wq/FitBudyy-AI/blob/main/Project_Phases/Phase_7_Project_Documentation.md]
+   git clone :https://github.com/giristark2008-blip/ComicCraft-AI-Comic-Story-Creator-using-Gemini-Models/blob/main/Project_Phases/Phase_7_Project_Documentation.md
    
 
 
