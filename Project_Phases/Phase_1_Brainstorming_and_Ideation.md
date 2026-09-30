@@ -17,7 +17,7 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 - *Project Name:* ComicCraft - AI Comic Story Creator using Gemini Models
 - *Maximum Marks:* 3 Marks
 
----
+--
 
 ## Step 1: Brainstorm and Idea Listing
 
