@@ -17,7 +17,7 @@
 
 ---
 
-## Step 4: Project Planning
+## Step 5: Project Development
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
