@@ -13,19 +13,23 @@
 - Milestone 4: Production deployment on Render and live domain verification.
 - 
 
-- Date: 29 September 2026
-- Team ID: 06
-- Project Name: FitBuddy – AI Fitness Plan Generator using Gemini Models
+# Phase 4: Project Planning
+
+
+- Date: 30 September 2026
+- Team ID: 15
+- Project Name: ComicCraft - AI Comic Story Creator using Gemini Models
 - Maximum Marks: 3 Marks
 
 ---
 
 # Phase 4: Project Planning
 
-
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Ponnurangam M| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 06 |
-| 2 | Saran R| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 06 |
-| 3 | Sanjay Kumar  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
-|4 |Vishnu S  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+| 1 | Giri s| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 06 |
+| 2 | Vishal v  | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 06 |
+| 3 | Monish r | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+|4 |Arivandhan p| Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+
+
