@@ -19,11 +19,8 @@
 - Project Name: ComicCraft - AI Comic Story Creator using Gemini Models
 - Maximum Marks: 3 Marks
 
----
-- Date: 30 September 2026
-- Team ID: 15
-- Project Name: ComicCraft - AI Comic Story Creator using Gemini Models
-- Maximum Marks: 3 Marks
+
+
 
 ---
 
