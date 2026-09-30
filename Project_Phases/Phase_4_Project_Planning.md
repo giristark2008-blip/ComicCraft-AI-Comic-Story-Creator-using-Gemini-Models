@@ -1,10 +1,10 @@
 # Phase 4: Project Planning
 
 ## Team Structure & Roles
-- **Giri S (Lead):** Core architecture, FastAPI backend, Gemini API integration, and Render cloud deployment.
-- **Vishal V :** Requirement validation, workflow analysis, and project planning.
-- **Monish R :** Frontend UI layout, styling review, and component testing.
-- **Aravindhan P :** Project documentation, Kanban task organization, and submission auditing.
+- **Hisham Aatif Afsar (Lead):** Core architecture, FastAPI backend, Gemini API integration, and Render cloud deployment.
+- **Maithreyan S:** Requirement validation, workflow analysis, and project planning.
+- **Gowdham Ramkrishnan:** Frontend UI layout, styling review, and component testing.
+- **Hariprasad V:** Project documentation, Kanban task organization, and submission auditing.
 
 ## Milestones & Timeline
 - Milestone 1: Environment setup and API key validation.
@@ -13,20 +13,19 @@
 - Milestone 4: Production deployment on Render and live domain verification.
 - 
 
-
-
-- *Date:* 29 September 2026
-- *Team ID:* 15
-- *Project Name:* ComicCraft - Al Comic Story Creator using Gemini Models
-- *Maximum Marks:* 3 Marks
+- Date: 29 September 2026
+- Team ID: 06
+- Project Name: FitBuddy – AI Fitness Plan Generator using Gemini Models
+- Maximum Marks: 3 Marks
 
 ---
 
-## Step 4: Project Planning
+# Phase 4: Project Planning
+
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
-| 1 | Giri s | Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 15 |
-| 2 | Vishal v | Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 15 |
-| 3 | Monish r | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 15 |
-| 4 | Aravindhan p | Budget threshold alerting and smart savings recommendations engine | Business Logic & Rules | Group 15 |
+| 1 | Ponnurangam M| Multimodal receipt image parsing using Google Gemini 1.5 Flash API | AI Architecture & Vision | Group 06 |
+| 2 | Saran R| Automated line-item expense categorization and tax breakdown | Data Processing & Logic | Group 06 |
+| 3 | Sanjay Kumar  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
+|4 |Vishnu S  | Dynamic Jinja2 web interface for intuitive mobile and desktop uploads | Frontend & UI/UX | Group 06 |
