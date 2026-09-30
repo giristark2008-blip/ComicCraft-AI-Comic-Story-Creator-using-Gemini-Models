@@ -15,7 +15,7 @@
 
 ---
 
-## Step 4: Project Planning
+## Step 6: Project Testing
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
