@@ -21,8 +21,8 @@
 - Maximum Marks: 3 Marks
 
 ---
+# Phase 2: Requirement Analysis
 
-## Step 1: Brainstorm and Idea Listing
 
 | S.No | Team Member | Idea / Suggestion | Category | Group No. |
 |------|-------------|-------------------|----------|-----------|
