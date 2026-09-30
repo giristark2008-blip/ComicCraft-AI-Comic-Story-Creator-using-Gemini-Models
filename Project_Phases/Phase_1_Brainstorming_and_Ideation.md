@@ -12,9 +12,9 @@ Students, homemakers, and small teams needing fast, frictionless expense breakdo
 
 # Phase 1: Brainstorming & Ideation
 
-- *Date:* 29 September 2026
-- *Team ID:* 06
-- *Project Name:* FitBuddy – AI Fitness Plan Generator using Gemini Models
+- *Date:* 30 September 2026
+- *Team ID:* 15
+- *Project Name:* 
 - *Maximum Marks:* 3 Marks
 
 ---
